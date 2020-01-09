@@ -1,0 +1,11 @@
+.upcoming-courses {
+    text-align: center;
+    color: brown;
+    font-size: 18px;
+    padding: 5px;
+}
+.upcoming-courses img {
+    height: 100%;
+    max-height: 250px;
+  
+}
