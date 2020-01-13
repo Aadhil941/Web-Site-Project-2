@@ -1,2 +1,2 @@
-# Web Site Project 2 - On Going Progress
-Technologies Used-: Angular,Bootstrap,PHP,MySQL
+# Web Site Project 2 
+Technologies Used-: Angular,Bootstrap,MySQL
