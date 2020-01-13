@@ -3,12 +3,12 @@ import { AppComponent } from '../app.component';
 
 @Component({
   selector: 'app-courses',
-  template:'<div class="upcoming-courses">  <B> UPCOMING COURSES IN ABROAD </B> </div> <carousel [itemsPerSlide]="4" [singleSlideOffset]="true"  [startFromIndex]="3"  [interval]="3000"> <slide *ngFor="let course of courses; let index=index"><img src="assets/courses/{{course.imgUrl}}" style="display: block; width: 100%;"></slide></carousel>',
+  template:'<div class="upcoming-courses">  <B> UPCOMING COURSES IN ABROAD </B> </div> <carousel class="container" [itemsPerSlide]="4" [singleSlideOffset]="true"  [startFromIndex]="0"  [interval]="3000"> <slide *ngFor="let course of courses; let index=index"><img src="assets/courses/{{course.imgUrl}}" style="display: block; width: 100%;"> <div class="carousel-caption"> <h3> <a href="" >{{course.name}} </a></h3> </div> </slide></carousel>',
   styleUrls: ['./courses.component.css']
 })
-export class CoursesComponent implements OnInit {
+export class CoursesComponent {
   
-  
+ 
   ;
 
   public courses=[];

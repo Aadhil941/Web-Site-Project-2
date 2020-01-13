@@ -19,7 +19,7 @@
 	},
 	{
 		"id" : 4,
-		"name" : "Software Developer",
+		"name" : "Programmer",
 		"country" : "Australia",
 		"imgUrl" : "5.jpg"
 	},
@@ -37,13 +37,13 @@
 	},
 	{
 		"id" : 7,
-		"name" : "Front-End Developer",
+		"name" : "UI Engineer",
 		"country" : "Canada",
 		"imgUrl" : "8.jpg"
 	},
 	{
 		"id" : 8,
-		"name" : "Full-Stack Developer",
+		"name" : "Project Manager",
 		"country" : "UK",
 		"imgUrl" : "9.jpg"
 	}

@@ -6,3 +6,25 @@ h3 {
     background-color: #f5f5f5;
     padding: 15px;
   }
+  .container-fluid {
+    background-color: aliceblue;
+  }
+ 
+ 
+  #calender {
+    background-color:  rgb(189, 224, 255);
+    padding: 10px 10px;
+  }
+  .col-sm-4 h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  #events {
+    background-color: white;
+  }
+  #form {
+    padding-bottom: 40px;
+  }
+  /* .add img {
+    max-height: 300px;
+    
+  } */

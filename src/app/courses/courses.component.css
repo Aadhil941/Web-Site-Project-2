@@ -1,11 +1,27 @@
 .upcoming-courses {
     text-align: center;
     color: brown;
-    font-size: 18px;
+    font-size: 28px;
     padding: 5px;
 }
 .upcoming-courses img {
     height: 100%;
     max-height: 250px;
-  
+}
+.carousel-caption  {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgba(255, 255, 255, 0.616);
+    
+    
+}
+.carousel-caption a{
+    color: rgb(0, 0, 0);
+    text-align: center;
+
+}
+
+.carousel-caption a:hover{
+    color: red;
+    text-decoration: none;
+    transition: 0.2s ease-in-out;
 }

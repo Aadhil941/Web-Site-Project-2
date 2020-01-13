@@ -1,0 +1,9 @@
+.row {
+    background-color: rgba(17, 17, 49, 0.692);
+}
+.row p {
+    color: white;
+}
+.row h3 {
+    color: rgb(22, 19, 218);
+}
